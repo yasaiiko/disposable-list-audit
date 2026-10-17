@@ -1,0 +1,149 @@
+{
+ "testedOn": "2026-10-17",
+ "providers": [
+  "gmail.com",
+  "outlook.com",
+  "hotmail.com",
+  "live.com",
+  "msn.com",
+  "yahoo.com",
+  "aol.com",
+  "icloud.com",
+  "me.com",
+  "proton.me",
+  "protonmail.com",
+  "pm.me",
+  "tutanota.com",
+  "tuta.io",
+  "fastmail.com",
+  "hey.com",
+  "mailbox.org",
+  "posteo.de",
+  "gmx.com",
+  "gmx.de",
+  "web.de",
+  "mail.com",
+  "zoho.com",
+  "yandex.com",
+  "mail.ru",
+  "qq.com",
+  "163.com",
+  "naver.com"
+ ],
+ "relays": [
+  "privaterelay.appleid.com",
+  "duck.com",
+  "mozmail.com",
+  "relay.firefox.com",
+  "simplelogin.com",
+  "simplelogin.co",
+  "slmail.me",
+  "aleeas.com",
+  "passmail.net",
+  "passinbox.com",
+  "addy.io",
+  "anonaddy.com",
+  "anonaddy.me",
+  "33mail.com"
+ ],
+ "results": [
+  {
+   "name": "las-nish/disposable-emails",
+   "repo": "https://github.com/las-nish/disposable-emails",
+   "size": 180561,
+   "providers": [
+    "outlook.com",
+    "hotmail.com",
+    "live.com",
+    "msn.com",
+    "proton.me",
+    "protonmail.com",
+    "pm.me",
+    "tutanota.com",
+    "tuta.io",
+    "qq.com",
+    "163.com",
+    "naver.com"
+   ],
+   "relays": [
+    "privaterelay.appleid.com",
+    "duck.com",
+    "mozmail.com",
+    "relay.firefox.com",
+    "simplelogin.com",
+    "simplelogin.co",
+    "slmail.me",
+    "aleeas.com",
+    "passmail.net",
+    "passinbox.com",
+    "addy.io",
+    "anonaddy.com",
+    "anonaddy.me",
+    "33mail.com"
+   ]
+  },
+  {
+   "name": "ivolo/disposable-email-domains",
+   "repo": "https://github.com/ivolo/disposable-email-domains",
+   "size": 121569,
+   "providers": [],
+   "relays": [
+    "33mail.com"
+   ]
+  },
+  {
+   "name": "Propaganistas/Laravel-Disposable-Email",
+   "repo": "https://github.com/Propaganistas/Laravel-Disposable-Email",
+   "size": 97713,
+   "providers": [],
+   "relays": []
+  },
+  {
+   "name": "FGRibreau/mailchecker",
+   "repo": "https://github.com/FGRibreau/mailchecker",
+   "size": 56512,
+   "providers": [],
+   "relays": [
+    "duck.com",
+    "mozmail.com",
+    "relay.firefox.com",
+    "simplelogin.com",
+    "simplelogin.co",
+    "slmail.me",
+    "aleeas.com",
+    "passmail.net",
+    "passinbox.com",
+    "addy.io",
+    "anonaddy.com",
+    "anonaddy.me",
+    "33mail.com"
+   ]
+  },
+  {
+   "name": "wesbos/burner-email-providers",
+   "repo": "https://github.com/wesbos/burner-email-providers",
+   "size": 27277,
+   "providers": [],
+   "relays": [
+    "duck.com",
+    "anonaddy.com",
+    "anonaddy.me",
+    "33mail.com"
+   ]
+  },
+  {
+   "name": "disposable-email-domains/disposable-email-domains",
+   "repo": "https://github.com/disposable-email-domains/disposable-email-domains",
+   "size": 9892,
+   "providers": [],
+   "relays": []
+  },
+  {
+   "name": "7c/fakefilter",
+   "repo": "https://github.com/7c/fakefilter",
+   "size": 4841,
+   "providers": [],
+   "relays": []
+  }
+ ]
+}
