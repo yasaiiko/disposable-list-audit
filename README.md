@@ -7,7 +7,7 @@ This repo checks the popular lists for those false positives, re-runs every week
 ## Results
 
 <!-- results:start -->
-Last run: **2026-10-17**. 28 mainstream providers and 14 privacy-relay domains checked.
+Last run: **2026-10-19**. 28 mainstream providers and 14 privacy-relay domains checked.
 
 | List | Domains | Mainstream providers listed | Privacy relays listed |
 |---|---:|---|---|
@@ -16,8 +16,8 @@ Last run: **2026-10-17**. 28 mainstream providers and 14 privacy-relay domains c
 | [Propaganistas/Laravel-Disposable-Email](https://github.com/Propaganistas/Laravel-Disposable-Email) | 97,713 | 0 | 0 |
 | [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker) | 56,512 | 0 | **13** (duck.com, mozmail.com, relay.firefox.com, simplelogin.com, simplelogin.co, slmail.me, aleeas.com, passmail.net, passinbox.com, addy.io, anonaddy.com, anonaddy.me, 33mail.com) |
 | [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) | 27,277 | 0 | **4** (duck.com, anonaddy.com, anonaddy.me, 33mail.com) |
-| [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) | 9,892 | 0 | 0 |
-| [7c/fakefilter](https://github.com/7c/fakefilter) | 4,841 | 0 | 0 |
+| [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) | 9,913 | 0 | 0 |
+| [7c/fakefilter](https://github.com/7c/fakefilter) | 4,828 | 0 | 0 |
 <!-- results:end -->
 
 What this does **not** measure: how often relays are used for abuse. There is no signup-level data here, only list membership. Blocking relays can be a deliberate policy; the point is to make it a choice instead of a side effect of the list you picked.
