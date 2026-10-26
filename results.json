@@ -1,5 +1,5 @@
 {
- "testedOn": "2026-10-19",
+ "testedOn": "2026-10-26",
  "providers": [
   "gmail.com",
   "outlook.com",
@@ -101,7 +101,7 @@
   {
    "name": "FGRibreau/mailchecker",
    "repo": "https://github.com/FGRibreau/mailchecker",
-   "size": 56512,
+   "size": 57702,
    "providers": [],
    "relays": [
     "duck.com",
@@ -134,14 +134,14 @@
   {
    "name": "disposable-email-domains/disposable-email-domains",
    "repo": "https://github.com/disposable-email-domains/disposable-email-domains",
-   "size": 9913,
+   "size": 9927,
    "providers": [],
    "relays": []
   },
   {
    "name": "7c/fakefilter",
    "repo": "https://github.com/7c/fakefilter",
-   "size": 4828,
+   "size": 4819,
    "providers": [],
    "relays": []
   }
