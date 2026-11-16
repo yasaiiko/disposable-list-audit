@@ -1,5 +1,5 @@
 {
- "testedOn": "2026-11-09",
+ "testedOn": "2026-11-16",
  "providers": [
   "gmail.com",
   "outlook.com",
@@ -134,14 +134,14 @@
   {
    "name": "disposable-email-domains/disposable-email-domains",
    "repo": "https://github.com/disposable-email-domains/disposable-email-domains",
-   "size": 10181,
+   "size": 10274,
    "providers": [],
    "relays": []
   },
   {
    "name": "7c/fakefilter",
    "repo": "https://github.com/7c/fakefilter",
-   "size": 4803,
+   "size": 4790,
    "providers": [],
    "relays": []
   }
